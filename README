@@ -1,0 +1,1 @@
+ evil_eye will download the latest list of known malware domain IP addresses [[http://www.malwaredomains.com]] and then use that data to look for matches while sniffing all incoming and outgoing traffic on the network. it will send alerts and log all information that logfiles generate during the time of the event.
